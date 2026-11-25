@@ -1,0 +1,7 @@
+Write a program (main.ts) that outputs one line, at most 140 characters, inventing the most useless superpower imaginable for the make.fun "Worst Superpower" bounty.
+
+The line must state the power and, in the same breath, make plain why it is useless. It should be original and unexpected (not slow flight, not invisibility nobody notices), funny to picture in use, tight and specific with a concrete detail, and clear on a single reading.
+
+Chosen entry: "I can teleport anything I own exactly three centimetres to the left — once per object, forever, no take-backs."
+
+The program must be fully deterministic (no randomness, clock, network, or input) and write exactly that line to /output/entry.txt (supporting an OUTPUT_DIR environment override for local testing).
